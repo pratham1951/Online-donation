@@ -29,4 +29,7 @@ How to Import the Database File ?
 ----------------------------------------------------------------
 Open Browser > Search localhost/phpmyadmin > Click Create New 
 Database > Database Name=donation
-Open Browser > Search localhost/phpmyadmin > Click Import Button
+----------------------------------------------------------------
+Open Browser > Search localhost/phpmyadmin > Click Import Button> Click ChooseFile Button > Go to Project Folder > Database > 
+database.sql > Click Open Button.
+All the Import Process Completed :)
