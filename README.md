@@ -5,17 +5,18 @@ User Signup/Login.
 Backend with PHP and MYSQL.
 Simple UI with Responsiveness.
 Payment Collection API (Stripe) to handle secure communication.
+----------------------------------------------------------------
 ![](/images/01.jpeg)
-
+----------------------------------------------------------------
+![](https://ishanmishra.in/wp-content/uploads/2021/02/stripe-payments-uk-review.jpg)
 ----------------------------------------------------------------
 Which technology is used ?
 ----------------------------------------------------------------
-PHP
-MySql
-HTML5
-CSS3
-JavaScript
-Ajax
+PHP 
+MySql 
+HTML5 
+CSS3 
+JavaScript 
 ----------------------------------------------------------------
 Which Software is needed ?
 ----------------------------------------------------------------
