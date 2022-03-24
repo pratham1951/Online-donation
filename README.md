@@ -1,5 +1,13 @@
 # online-donation
 ----------------------------------------------------------------
+An Online Donation application for the National Defence Fund which provides:-
+User Signup/Login.
+Backend with PHP and MYSQL.
+Simple UI with Responsiveness.
+Payment Collection API (Stripe) to handle secure communication.
+![](/images/01.jpeg)
+
+----------------------------------------------------------------
 Which technology is used ?
 ----------------------------------------------------------------
 PHP
